@@ -3,7 +3,7 @@ Stock Portfolio Allocation and Risk Management using FinRL/Reinforcement Learnin
 
 Job Board Link :
 
-https://app.clickup.com/9011927534/v/b/8cje6fe-31
+https://github.com/users/jobinajoy/projects/4/views/1
 
 Master Doc Link :
 
