@@ -7,6 +7,8 @@ https://github.com/users/jobinajoy/projects/4/views/1
 
 Master Doc Link :
 
+doc/PROJECT REPORT.docx
+
 https://docs.google.com/document/d/1aq3jtSGHm82rhW1yiPHjmlOlKb_bhd9C0C_mbFuQlcc/edit?tab=t.0
 
 
