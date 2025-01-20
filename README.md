@@ -10,11 +10,15 @@ Master Doc Link :
 https://docs.google.com/document/d/1aq3jtSGHm82rhW1yiPHjmlOlKb_bhd9C0C_mbFuQlcc/edit?tab=t.0
 
 
-Datasets Link:
+Data Source Link:
 https://ca.finance.yahoo.com/
 
 Portfolio Datasets includes stocks from companies such as Tech stocks, Blue chip stocks, Energy Stocks.
 
 A portfolio must have diversified stock options to balance the loss. So we have opted for variations in Domains of those companies and have included 8 companies stocks. 
+
+
+Dataset Link (Google Drive): 
+https://drive.google.com/drive/folders/16QDbEMxm2QzKnsfYdKigF3JXvf3VrNPR?usp=drive_link
 
 
