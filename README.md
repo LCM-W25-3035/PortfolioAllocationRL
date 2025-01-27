@@ -21,6 +21,6 @@ A portfolio must have diversified stock options to balance the loss. So we have 
 
 
 Dataset Link (Google Drive): 
-https://drive.google.com/drive/folders/16QDbEMxm2QzKnsfYdKigF3JXvf3VrNPR?usp=drive_link
+https://drive.google.com/drive/folders/1ZY1lko38n-qriWXh2hzhnAlsBV-qQh5p
 
 
