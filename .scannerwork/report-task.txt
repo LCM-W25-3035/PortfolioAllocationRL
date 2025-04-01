@@ -2,5 +2,5 @@ projectKey=Capstone-Project
 serverUrl=http://localhost:9000
 serverVersion=25.1.0.102122
 dashboardUrl=http://localhost:9000/dashboard?id=Capstone-Project
-ceTaskId=fbf722b9-df28-4116-ac1f-bfc5eb1f572a
-ceTaskUrl=http://localhost:9000/api/ce/task?id=fbf722b9-df28-4116-ac1f-bfc5eb1f572a
+ceTaskId=ded2853e-610c-4bf6-8814-fee3f1322468
+ceTaskUrl=http://localhost:9000/api/ce/task?id=ded2853e-610c-4bf6-8814-fee3f1322468
