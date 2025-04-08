@@ -9,8 +9,10 @@ Master Doc Link :
 
 doc/PROJECT REPORT.docx
 
-https://docs.google.com/document/d/1aq3jtSGHm82rhW1yiPHjmlOlKb_bhd9C0C_mbFuQlcc/edit?tab=t.0
 
+Master Slide Link:
+
+https://github.com/LCM-W25-3035/PortfolioAllocationRL/blob/dev/ppt/MASTER%20SLIDE%20PROJECT.pptx
 
 Data Source Link:
 https://ca.finance.yahoo.com/
